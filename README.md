@@ -1,3 +1,5 @@
+https://unrivaled-sorbet-d34878.netlify.app/
+
 # temalabor-23o-powerbi
 
 ## A tárgy rövid ismertetése
